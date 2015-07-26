@@ -1,4 +1,4 @@
-IFROM armv7/armhf-archlinux
+FROM armv7/armhf-archlinux
 MAINTAINER Gerard Ribas <gerard.ribas.canals@gmail.com>
 
 ENV PACMAN_PACKAGES gnutls nettle minidlna
